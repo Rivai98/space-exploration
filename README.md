@@ -1,6 +1,7 @@
 # Space Exploration Website
 
-![Uploading image.png…]()
+<img width="600" height="308" alt="image" src="https://github.com/user-attachments/assets/2891a443-8d10-4b2c-a7f5-fe5bd772dc8d" />
+
 
 
 A simple, responsive landing page for SpaceX exploration theme.
